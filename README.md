@@ -1,6 +1,6 @@
 # 🌲 Forest Cover Type Prediction using XGBoost
 
-This project focuses on building a machine learning model to classify forest cover types using cartographic variables from the **UCI Forest CoverType Dataset**. The model leverages **XGBoost** — an efficient and scalable gradient boosting framework — and includes **hyperparameter tuning** with `RandomizedSearchCV`, as well as preprocessing, evaluation, and visualization.
+This project focuses on building a machine learning model to classify forest cover types using cartographic variables from the [**UCI Forest CoverType Dataset**](https://www.kaggle.com/datasets/uciml/forest-cover-type-dataset) The model leverages **XGBoost** — an efficient and scalable gradient boosting framework — and includes **hyperparameter tuning** with `RandomizedSearchCV`, as well as preprocessing, evaluation, and visualization.
 
 ---
 
